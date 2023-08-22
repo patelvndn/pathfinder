@@ -1,2 +1,3 @@
 # PythonPathfinder
-A pahtfinding visualization in python
+A pathfinding visualization in python
+DFS BFS Djikstras
